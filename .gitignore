@@ -1,4 +1,7 @@
-AbstractFactory\Debug\*
-AbstractFactory\ipch\*
-FactoryMethod\Debug\*
-FactoryMethod\ipch\*
+AbstractFactory/Debug/*
+AbstractFactory/ipch/*
+FactoryMethod/Debug/*
+FactoryMethod/ipch/*
+AbstractFactory/Debug/
+Debug
+ipch
